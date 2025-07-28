@@ -7,7 +7,7 @@ This project provides a simple Electron wrapper for the GoodNotes web applicatio
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/LeonBurghardtDev/GoodNotesLinux.git
     cd GoodNotesWeb
     ```
 
