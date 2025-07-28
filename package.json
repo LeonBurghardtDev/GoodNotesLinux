@@ -1,0 +1,19 @@
+{
+  "name": "goodnotesweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "package": "electron-packager . GoodNotesWeb --platform=linux --arch=x64 --out=dist --icon=icon.png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "electron": "^25.9.8",
+    "electron-packager": "^17.1.2"
+  }
+}
